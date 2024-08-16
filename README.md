@@ -1,1 +1,1 @@
-一个new hand
+https://yangshin-cmd.github.io/new/
